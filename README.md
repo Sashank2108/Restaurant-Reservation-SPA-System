@@ -18,6 +18,6 @@ Tech Stack
   - Git & Github
 
 Author
-📧 Email: sashankpalla9@gmail.com
-🌐 Github: github.com/Sashank2108
-🔗 LinkedIn: linkedin.com/in/sashankpalla
+* 📧 Email: sashankpalla9@gmail.com
+* 🌐 Github: github.com/Sashank2108
+* 🔗 LinkedIn: linkedin.com/in/sashankpalla
